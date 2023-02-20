@@ -34,6 +34,13 @@
 - 주로 헤더와 푸터, 레이아웃 템플릿, 자주 쓰이는 UI 요소(검색, 사이드바 등)를 만들어 놓는다.
 - [참고 사이트](https://yozm.wishket.com/magazine/detail/1187/)
 - [참고 강의](https://www.youtube.com/watch?v=Z1mapqjOIEA&list=PLdwQP35_Nz9eMN9K82jNFBJ4xqJUMoXm8&index=12)
+   
+**Detach Instance**
+- 인스턴스를 컴포넌트로부터 불리시키는 기능
+
+**컴포넌트 안의 컴포넌트**
+- 컴포넌트를 또다시 컴포넌트로 등록이 가능함
+- 컴포넌트를 더욱 재사용하게 해주는 기능이다.
 
 ### 인스턴스
 ---
