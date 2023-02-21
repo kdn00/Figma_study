@@ -75,4 +75,28 @@
 ### Variants
 ---
 - 2개 이상의 컴포넌트를 선택하면 Varients 버튼이 활성화된다.
+- 요소를 상태별로 묶어서 활용할 수 있다.
+![image](https://user-images.githubusercontent.com/89984853/220218415-b732fca5-b7c6-4401-a462-11a3cc397302.png)
+- 상태 확인은 오른쪽의 Design탭에서 확인(변경)할 수 있다.
+![image](https://user-images.githubusercontent.com/89984853/220217170-9676d4dd-cade-41ff-ab0c-c0885056c905.png)
+
+### Prototype, Interaction
+---
+<!-- 예시 : https://www.figma.com/proto/82dUNf3kVAprN8TJYbkPwW/%EC%97%B0%EC%8A%B5?page-id=10%3A13&node-id=34%3A286&viewport=576%2C1251%2C0.91&scaling=contain -->
+- 프로토타입은 일차원적인 요소에 이벤트를 이용해 효과나 애니메이션을 주는 기능이며, 컴포넌트끼리도 가능하고, 프레임끼리도 가능하다.
+- **핫스팟** : 아래의 그림에서 파란색 기준이 되는 점이고, 사용자의 인터렉션이 시작하는 위치이다.
+- **커넥션 라인** : 핫스팟과 이어지는 두 개의 요소 사이의 연결 선으로, 이 선을 클릭하면 프로토타입의 세부적인 설정을 할 수 있다.
+- **데스티네이션** : 핫스팟에서 커넥션으로 연결한 도착점이 되는 요소를 의미한다.
+- **Interaction Details 창** : 핫스팟에서 데스티네이션요소를 클릭하면 인터렉션 디테일창이 바로 뜬다.
+- **트리거** : 이벤트라고도 볼 수 있는 인터랙션의 시작점이다. 클릭, hover 등을 선택할 수 있다.
+![image](https://user-images.githubusercontent.com/89984853/220223956-45fd9449-5e2f-4c2f-933c-0246d287248a.png)
+
+- **액션** : 어떤식으로 요소가 바뀔지에 대한 액션 명령 종류를 지정할 수 있다.
+![image](https://user-images.githubusercontent.com/89984853/220224062-9c9db318-e963-4641-91dd-87c476f622a8.png)
+
+- **애니메이션** : 움직임을 선택할 수 있다.
+![image](https://user-images.githubusercontent.com/89984853/220224083-c32cb499-bc10-44cd-ab67-e9ec1db7e9a3.png)
+
+### 
+---
 - 
